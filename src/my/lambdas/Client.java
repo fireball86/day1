@@ -60,6 +60,6 @@ public class Client {
         icm2.doIt(results, x -> {
             System.out.println(x);
         });
-
+//      just comment
     }
 }
